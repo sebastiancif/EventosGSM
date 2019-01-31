@@ -3,4 +3,4 @@ En este repositorio está el proceso de generación de un análisis estadístico
 
 La pregunta basal del estudio era si existían sesgos geográficos o de otro tipo en la distribución de eventos 4G en Santiago.
 
-El documento del análisis se encuentra en "visualizacion_datos.ipynb"
+El informe final se encuentra en "visualizacion_datos.ipynb".
